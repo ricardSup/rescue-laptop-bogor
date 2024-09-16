@@ -1,0 +1,4 @@
+document.addEventListener("DOMContentLoaded", function(){ window.addEventListener("DOMContentLoaded", function(){
+	UAGBForms.init( {"block_id":"11e9fae6","reCaptchaEnable":false,"reCaptchaType":"v2","reCaptchaSiteKeyV2":"","reCaptchaSecretKeyV2":"","reCaptchaSiteKeyV3":"","reCaptchaSecretKeyV3":"","afterSubmitToEmail":"richardlim123555@gmail.com","afterSubmitCcEmail":"","afterSubmitBccEmail":"","afterSubmitEmailSubject":"Pengiriman Formulir","sendAfterSubmitEmail":true,"confirmationType":"message","hidereCaptchaBatch":false,"captchaMessage":"Silakan isi captcha di atas.","confirmationUrl":""}, '.uagb-block-11e9fae6', 16 );
+});
+ });
